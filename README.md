@@ -50,4 +50,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Dhill98/parstagram1/blob/main/parstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
